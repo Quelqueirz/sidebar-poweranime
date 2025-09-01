@@ -7,7 +7,7 @@
 
 .main_box {
     position: relative;
-    background: url(../img/background2.jpg), url(../img/background.jpg) no-repeat;
+    background: url(../img/background4k.jpg), url(../img/background1920x1200.jpg) no-repeat;
     height: 100vh;
     width: 100%;
     background-size: cover;
@@ -161,6 +161,13 @@
         padding: 0 8px;
         display: inline-block;
     }
+
+    .main_box {
+        background: url(../img/backgroundmobile.jpg) no-repeat;
+        background-size: cover;
+    }
+     
+
 }
 
 
