@@ -157,9 +157,7 @@
         text-align: center;
     }
     .social_media i {
-        font-size: 18px;
-        padding: 0 8px;
-        display: inline-block;
+       opacity: 0;
     }
 
     .main_box {
